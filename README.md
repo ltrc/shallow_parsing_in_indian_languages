@@ -1,0 +1,2 @@
+# shallow_parsing_in_indian_languages
+shallow_parsing_in_indian_languages
